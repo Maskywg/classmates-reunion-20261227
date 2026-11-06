@@ -3,3 +3,5 @@
 .opening-picture{margin:0;background:#342b25;line-height:0}.opening-picture img{display:block;width:100%;height:auto;max-width:1448px;margin:0 auto}
 
 .music-bar{display:flex;align-items:center;justify-content:space-between;gap:24px;padding-top:22px;padding-bottom:22px;border-bottom:1px solid var(--line)}.music-bar>div{display:flex;align-items:center;gap:14px}.music-symbol{font-size:30px;color:var(--gold)}.music-bar strong{display:block;font-family:"Songti TC",serif;font-size:18px;font-weight:500}.music-bar div div>span{display:block;font-size:12px;color:var(--muted)}.music-bar audio{display:block;width:310px;max-width:100%;height:42px}@media(max-width:600px){.music-bar{flex-direction:column;align-items:stretch;gap:12px}.music-bar audio{width:100%}.music-bar div div>span{font-size:11px}}
+
+.meal-note{margin:24px 0;padding:22px 26px;background:#eeeee0;border-left:3px solid var(--gold);border-radius:0 5px 5px 0}.meal-note h3{margin:0 0 8px;color:var(--green);font-size:16px;font-weight:600}.meal-note p{margin:0;color:#53634f;font-size:14px;line-height:2}@media(max-width:600px){.meal-note{padding:18px 20px}}
